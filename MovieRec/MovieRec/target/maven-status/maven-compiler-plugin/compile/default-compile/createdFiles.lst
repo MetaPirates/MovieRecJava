@@ -1,0 +1,14 @@
+org\example\Rest.class
+Model\Movie.class
+com\MovieRec\MovieRec\ProjectConfig.class
+Model\Combined.class
+com\MovieRec\MovieRec\ControllerClass.class
+Model\Rating.class
+org\example\WeightedAverage.class
+org\example\Recommender.class
+org\example\FirstRating.class
+org\example\Rater.class
+Contracts\FirstRatingContract.class
+org\example\Similarity.class
+org\example\App.class
+com\MovieRec\MovieRec\MovieRecApplication.class
